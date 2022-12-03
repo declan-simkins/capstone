@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://C:/Downloads/Plugins/2d-extras-2020.3/2d-extras-2020.3" />
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$USER_HOME$/Downloads/Plugins/2d-extras-2020.3/2d-extras-2020.3" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

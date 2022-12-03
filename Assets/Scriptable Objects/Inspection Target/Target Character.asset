@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a5bab985ded82540b6915e852ed8d0d, type: 3}
+  m_Name: Target Character
+  m_EditorClassIdentifier: 
+  attributes: {fileID: 11400000, guid: 0709f3ee9cefe524d80708aa318c5b14, type: 2}
+  resistances: {fileID: 11400000, guid: 642e81c89e595254ebcea6c9e8ca766c, type: 2}
+  resources: {fileID: 11400000, guid: 12f157d4777ed78499bc92a3a9eabcb3, type: 2}
+  info: {fileID: 11400000, guid: d14884c5b36eed1409d95c21dcf37a23, type: 2}
+  skills: {fileID: 11400000, guid: c7d85f6626104dd429f83610489475d2, type: 2}
